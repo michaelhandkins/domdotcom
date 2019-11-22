@@ -1,24 +1,22 @@
-# README
+Dom's Website
+=============
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a website for Hip-Hop artist Dominic Arocha.
 
-Things you may want to cover:
+Technologies Used
+-----------------
 
-* Ruby version
+  * Ruby, v. 2.5.3
+  * Rails
+  * Bootstrap
+  * HTML5/CSS3
 
-* System dependencies
+Description
+-----------
 
-* Configuration
+This site features a mobile friendly-landing page with the artist's video embedded from YouTube. The navbar includes artist's logo as a home button, icons as links to each of the rapper's social media profiles, and an icon that leads to the website's mobile-friendly photo gallery.
 
-* Database creation
+![](images/home.PNG)
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This site is temporarily deployed at http://domdotcom.herokuapp.com/
