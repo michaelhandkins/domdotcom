@@ -25,7 +25,10 @@ body {
 
 .gallery-pic {
   width: 100%;
-  border:4px solid #bfb026;
+  border:3px solid #bfb026;
+  box-shadow: 5px 5px #818181;
+  -webkit-box-shadow: 5px 5px 5px #818181;
+  -moz-box-shadow: 5px 5px 5px #818181;
 }
 
 .box {
